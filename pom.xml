@@ -49,7 +49,7 @@
             scm:git:git://github.com:elf4j/elf4j-engine.git
         </connection>
         <developerConnection>
-            scm:git:ssh://github.com:elf4j/elf4j-engine.git
+            scm:git:ssh://github.com:elf4j/elf444j-engine.git
         </developerConnection>
     </scm>
     <developers>
